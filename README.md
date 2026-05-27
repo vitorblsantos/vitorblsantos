@@ -83,12 +83,14 @@
 </div>
 
 ---
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/vitorblsantos/vitorblsantos/output/github-contribution-grid-snake-dark.svg"
     alt="github contribution grid snake animation"
   />
 </p>
+
 ---
 
 # Sobre mim
