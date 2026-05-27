@@ -96,6 +96,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorblsantos&theme=gruvbox" alt="GitHub Streak" />
 </p>
+
 --- 
 
 # Sobre mim
