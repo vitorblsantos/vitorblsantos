@@ -124,3 +124,8 @@ Tenho forte interesse por performance, escalabilidade, observabilidade, seguran�
 * Tenho experiência com observabilidade e monitoramento distribuído utilizando OpenTelemetry.
 * Utilizo inteligência artificial como apoio estratégico para produtividade, automação e aceleração de entregas técnicas.
 * Tenho interesse contínuo em arquitetura de software, performance, sistemas distribuídos e tecnologias emergentes.
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitorblsantos&color=red" />
+</p>
