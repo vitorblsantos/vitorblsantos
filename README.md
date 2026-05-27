@@ -93,6 +93,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorblsantos&theme=gruvbox" alt="GitHub Streak" />
+</p>
+--- 
+
 # Sobre mim
 
 Bacharel em Engenharia da Computação, atuando como Engenheiro de Software Full Stack com foco em arquitetura de aplicações, sistemas distribuídos, cloud computing e desenvolvimento de soluções escaláveis.
