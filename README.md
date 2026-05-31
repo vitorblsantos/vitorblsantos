@@ -85,19 +85,11 @@
 ---
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/vitorblsantos/vitorblsantos/output/github-contribution-grid-snake-dark.svg"
-    alt="github contribution grid snake animation"
-  />
-</p>
-
----
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorblsantos&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 --- 
+<!--
 
 # Sobre mim
 
@@ -130,7 +122,7 @@ Tenho forte interesse por performance, escalabilidade, observabilidade, seguran�
 * Tenho experiência com observabilidade e monitoramento distribuído utilizando OpenTelemetry.
 * Utilizo inteligência artificial como apoio estratégico para produtividade, automação e aceleração de entregas técnicas.
 * Tenho interesse contínuo em arquitetura de software, performance, sistemas distribuídos e tecnologias emergentes.
-
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitorblsantos&color=red" />
