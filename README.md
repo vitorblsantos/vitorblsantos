@@ -84,12 +84,12 @@
 
 ---
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vitorblsantos&theme=material&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </p>
 
 --- 
-<!--
 
 # Sobre mim
 
@@ -124,6 +124,9 @@ Tenho forte interesse por performance, escalabilidade, observabilidade, seguran�
 * Tenho interesse contínuo em arquitetura de software, performance, sistemas distribuídos e tecnologias emergentes.
 -->
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vitorblsantos&color=red" />
 </p>
+
+-->
